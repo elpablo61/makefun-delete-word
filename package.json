@@ -1,0 +1,1 @@
+{"description":"make.fun entry: the one word to delete from the dictionary","engines":{"node":">=22.18"},"main":"main.ts","name":"makefun-delete-word","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
